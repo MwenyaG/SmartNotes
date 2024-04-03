@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1051314452964",
+    "firebase_url": "https://assignment-37afc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assignment-37afc",
+    "storage_bucket": "assignment-37afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051314452964:android:6849cb13f5256dc826eff1",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051314452964-i9ee32t8mthu96nv7a83v4r14bgius0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMlgynifzh5VbrfLAkkpcUwDj76XVuKmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051314452964-i9ee32t8mthu96nv7a83v4r14bgius0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051314452964:android:dc97bb085594ebf626eff1",
+        "android_client_info": {
+          "package_name": "com.vaibhav.taskify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051314452964-i9ee32t8mthu96nv7a83v4r14bgius0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMlgynifzh5VbrfLAkkpcUwDj76XVuKmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051314452964-i9ee32t8mthu96nv7a83v4r14bgius0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
